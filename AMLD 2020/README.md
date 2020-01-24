@@ -3,6 +3,8 @@
 # Human mobility analysis and simulation with Python
 13:30 - 17:00, January 25 @ 3BC
 
+[![HitCount](http://hits.dwyl.io/scikit-mobility/tutorials.svg)](http://hits.dwyl.io/scikit-mobility/tutorials)
+
 <p float="left">
   <img src="trackandknow_logo.png" width="300" /> 
   <img src="logo_skmob.png" width="300" />
