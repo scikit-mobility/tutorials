@@ -28,3 +28,6 @@ Intermediate level
 - No specific knowledge about human mobility is required
 - Basic understanding of Python and the libraries (Pandas and Numpy are recommended)
 - Own laptop
+
+## Co-organizers
+<img src="developers_scikitmobility.png" width=600/>
