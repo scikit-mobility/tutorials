@@ -5,7 +5,7 @@
 
 [![HitCount](http://hits.dwyl.io/scikit-mobility/tutorials.svg)](http://hits.dwyl.io/scikit-mobility/tutorials)
 
-This workshop si supported by EU project SoBigData RI (Grant Agreement 654024) and EU project Track&Know (agreement 780754).
+This workshop si supported by EU project SoBigData RI (Grant Agreement 654024) and EU project Track&Know (Grant Agreement 780754).
 
 <p float="left">
   <img src="sobigdata_logo.jpg" width="280" /> 
