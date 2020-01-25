@@ -8,22 +8,25 @@
 This workshop si supported by EU project SoBigData RI (Grant Agreement 654024) and EU project Track&Know (agreement 780754).
 
 <p float="left">
-  <img src="sobigdata_logo.jpg" width="300" /> 
+  <img src="sobigdata_logo.jpg" width="280" /> 
   <img src="trackandknow_logo.png" width="320" /> 
-  <img src="logo_skmob.png" width="300" />
 </p>
 
 ## Get ready and install scikit-mobility
+
+<img src="logo_skmob.png" width="300" />
+
 - Repository: https://github.com/scikit-mobility/scikit-mobility
 - Documentation: https://scikit-mobility.github.io/scikit-mobility/
 - Paper: https://arxiv.org/abs/1907.07062
 
 
+## Abstract
 The availability of geo-spatial mobility data (e.g., GPS traces, call detail and social media records) is a trend that will grow in the near future.
 For this reason, understanding human mobility is of paramount importance for many present and future applications, such as traffic forecasting, urban planning, and epidemic modeling, and hence for many actors, from urban planners to decision-makers and advertising companies.
 
 In this hands-on tutorial we will present, with a strong focus on code implementation, an overview on the fundamental principles underlying the analysis of big mobility data.
-Starting from mobility data describing the whereabouts of individuals on a territory for a large-enough observation window, we will drive the audience through the extraction of mobility patterns and measures by using scikit-mobility, a specific Python library designed by the tutorial presenters.
+Starting from mobility data describing the whereabouts of individuals on a territory for a large-enough observation window, we will drive the audience through the extraction of mobility patterns and measures by using **[scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)**, a specific Python library designed by the tutorial presenters.
 
 The library allows the user to: filter and clean raw mobility data by using standard techniques proposed in the mobility data mining literature; analyze mobility data by using the main measures characterizing human mobility patterns (e.g., radius of gyration, daily motifs, mobility entropy); simulate individual and collective mobility by executing the most common human mobility models (e.g., gravity and radiation models, exploration and preferential return model); assess the privacy risk related to the analysis of a real-world mobility data set.
 
