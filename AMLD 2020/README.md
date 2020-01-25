@@ -1,11 +1,12 @@
 <img src="AMLD_Lausanne.jpeg" width=300/>
 
 # Human mobility analysis and simulation with Python
-13:30 - 17:00, January 25 @ 3BC
+[Applied Machine Learning Days 2020](https://appliedmldays.org/), SwissTech Convention Center, Ecublens, Switzerland 
+<br/> 13:30 - 17:00, January 25 @ 3BC
 
 [![HitCount](http://hits.dwyl.io/scikit-mobility/tutorials.svg)](http://hits.dwyl.io/scikit-mobility/tutorials)
 
-This workshop si supported by EU project SoBigData RI (Grant Agreement 654024) and EU project Track&Know (Grant Agreement 780754).
+This workshop si supported by EU project **SoBigData** RI (Grant Agreement 654024) and EU project **Track&Know** (Grant Agreement 780754).
 
 <p float="left">
   <img src="sobigdata_logo.jpg" width="280" /> 
