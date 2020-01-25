@@ -6,9 +6,16 @@
 [![HitCount](http://hits.dwyl.io/scikit-mobility/tutorials.svg)](http://hits.dwyl.io/scikit-mobility/tutorials)
 
 <p float="left">
-  <img src="trackandknow_logo.png" width="300" /> 
+  <img src="sobigdata_logo.jpg" width="300" /> 
+  <img src="trackandknow_logo.png" width="320" /> 
   <img src="logo_skmob.png" width="300" />
 </p>
+
+## Get ready and install scikit-mobility
+- Repository: https://github.com/scikit-mobility/scikit-mobility
+- Documentation: https://scikit-mobility.github.io/scikit-mobility/
+- Paper: https://arxiv.org/abs/1907.07062
+
 
 The availability of geo-spatial mobility data (e.g., GPS traces, call detail and social media records) is a trend that will grow in the near future.
 For this reason, understanding human mobility is of paramount importance for many present and future applications, such as traffic forecasting, urban planning, and epidemic modeling, and hence for many actors, from urban planners to decision-makers and advertising companies.
