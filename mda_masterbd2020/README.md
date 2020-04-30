@@ -14,6 +14,7 @@ In particular, we will se how to visualize trajectories, flows and tessellations
 
 ## Outline of hands-on course
 - Lesson 1: [Intro and Data Structures](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/intro_and_data_structures.ipynb)
+- Lesson 2: [Preprocessing mobility data](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/preprocessing.ipynb)
 
 ## Get ready and install scikit-mobility
 
