@@ -16,7 +16,7 @@ In particular, we will se how to visualize trajectories, flows and tessellations
 - Lesson 1: [Intro and Data Structures](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/intro_and_data_structures.ipynb)
 - Lesson 2: [Preprocessing mobility data](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/preprocessing.ipynb)
 
-## Get ready and install scikit-mobility
+## Get ready: install scikit-mobility and download data
 
 <img src="logo_skmob.png" width="300" />
 
@@ -25,3 +25,6 @@ In particular, we will se how to visualize trajectories, flows and tessellations
 - Paper: https://arxiv.org/abs/1907.07062
 - Jupyter Notebook: https://jupyter.org/
 - To run notebooks in Jupyter using slideshow, install [RISE](https://rise.readthedocs.io/en/stable/)
+
+- Download [Geolife Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=52367&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fdownloads%2Fb16d359d-d164-469e-9fd4-daa38f2b2e13%2F), unzip it, and put it in folder `data`
+- Download your [Google Location data](https://support.google.com/accounts/answer/3024190), and put the `json` file in folder `data`
