@@ -1,10 +1,7 @@
-<img src="masterSBD_logo.jpg" width=300/>
+<img src="masterSBD_logo.jpg" width=500/>
 
 # Mobility Data Analysis
 [Master in Big Data Analytics & Social Mining](https://masterbigdata.it/), University of Pisa.
-
-[![HitCount](http://hits.dwyl.io/scikit-mobility/tutorials.svg)](http://hits.dwyl.io/scikit-mobility/tutorials)
-
 
 ## Get ready and install scikit-mobility
 
