@@ -17,6 +17,8 @@ In these hands-on lessons we will present an overview on the fundamental princip
 
 In particular, we will se how to visualize trajectories, flows and tessellations, how to clean raw mobility data by using standard techniques proposed in the mobility data mining literature, and how to analyze mobility data by using the main measures characterizing human mobility patterns (e.g., radius of gyration, daily motifs, mobility entropy).
 
+## Outline of hands-on course
+- Lesson 1: [Intro and Data Structures](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/intro_and_data_structures.ipynb)
 
 ## Prerequisites
 - No specific knowledge about human mobility is required
