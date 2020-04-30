@@ -1,7 +1,11 @@
 <img src="masterSBD_logo.jpg" width=500/>
 
-# Mobility Data Analysis
+# Mobility Data Analysis (MDA)
 [Master in Big Data Analytics & Social Mining](https://masterbigdata.it/), University of Pisa.
+
+## Teachers
+- Mirco Nanni (ISTI-CNR)
+- Luca Pappalardo (ISTI-CNR)
 
 ## Get ready and install scikit-mobility
 
@@ -24,8 +28,4 @@ In particular, we will se how to visualize trajectories, flows and tessellations
 - No specific knowledge about human mobility is required
 - Basic understanding of Python and the libraries (Pandas and Numpy are recommended)
 - Own laptop
-
-## Teachers
-- Mirco Nanni (ISTI-CNR)
-- Luca Pappalardo (ISTI-CNR)
 
