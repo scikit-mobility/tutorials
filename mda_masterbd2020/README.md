@@ -20,8 +20,8 @@ In particular, we will se how to visualize trajectories, flows and tessellations
 - Lesson 3: [Mobility measures](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/measures.ipynb)
 
 **Practice**
-- [Practice 1](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice1.ipynb)ù
-- Practice 2: to be added
+- [Practice 1](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice1.ipynb)
+- [Practice 2 (traccia)](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice2_traccia.ipynb)
 
 ## Get ready: install scikit-mobility and download data
 
