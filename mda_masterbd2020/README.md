@@ -36,3 +36,4 @@ In particular, we will se how to visualize trajectories, flows and tessellations
 - Download [Geolife Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=52367&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fdownloads%2Fb16d359d-d164-469e-9fd4-daa38f2b2e13%2F), unzip it, and put it in folder `data`
 - Download [San Francisco cabs data](https://bit.ly/sf_cabs_data), and put the file in the folder `data`
 - Download your [Google Location data](https://support.google.com/accounts/answer/3024190), and put the `json` file in folder `data`
+- Download data of [taxis in Rome](https://drive.google.com/file/d/1wZfW5l2d7MWNHWXQUlpNynJUi8haAuqD/view?usp=sharing)
