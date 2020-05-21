@@ -38,3 +38,8 @@ In particular, we will se how to visualize trajectories, flows and tessellations
 - Download [San Francisco cabs data](https://bit.ly/sf_cabs_data), and put the file in the folder `data`
 - Download your [Google Location data](https://support.google.com/accounts/answer/3024190), and put the `json` file in folder `data`
 - Download data of [taxis in Rome](https://drive.google.com/file/d/1wZfW5l2d7MWNHWXQUlpNynJUi8haAuqD/view?usp=sharing)
+
+## Tips and tricks
+- How to make folium Custom Icons: https://ocefpaf.github.io/python4oceanographers/blog/2015/11/02/icons/
+- Cloropleth maps in folium: https://python-graph-gallery.com/292-choropleth-map-with-folium/
+- Adding the geographic scale in a folium map: https://github.com/python-visualization/folium/issues/414
