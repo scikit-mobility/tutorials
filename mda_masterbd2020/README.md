@@ -27,6 +27,7 @@ In particular, we will se how to visualize trajectories, flows and tessellations
 - Practice 3
   - [traccia](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice3-traccia.ipynb)
   - [solved](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice3.ipynb)
+- [Read Google Timeline Data](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/read_my_tracks.ipynb)
 
 ## Get ready: install scikit-mobility and download data
 
