@@ -21,8 +21,12 @@ In particular, we will se how to visualize trajectories, flows and tessellations
 
 **Practice**
 - [Practice 1](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice1.ipynb)
-- [Practice 2 (traccia)](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice2_traccia.ipynb)
-- [Practice 2 (solved)](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice2.ipynb)
+- Practice 2
+  - [traccia](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice2_traccia.ipynb)
+  - [solved](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice2.ipynb)
+- Practice 3
+  - [traccia](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice3-traccia.ipynb)
+  - [solved](https://github.com/scikit-mobility/tutorials/blob/master/mda_masterbd2020/practice3.ipynb)
 
 ## Get ready: install scikit-mobility and download data
 
