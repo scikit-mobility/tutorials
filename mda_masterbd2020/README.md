@@ -8,9 +8,9 @@
 - Luca Pappalardo (ISTI-CNR)
 
 ## Abstract
-In these hands-on lessons we will present an overview on the fundamental principles underlying the analysis of mobility data, using **[scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)**, a specific Python library designed by the tutorial presenters.
+In these hands-on lessons, we present an overview on the fundamental principles underlying the analysis of mobility data, using **[scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)**, a specific Python library designed by the tutorial presenters.
 
-In particular, we will se how to visualize trajectories, flows and tessellations, how to clean raw mobility data by using standard techniques proposed in the mobility data mining literature, and how to analyze mobility data by using the main measures characterizing human mobility patterns (e.g., radius of gyration, daily motifs, mobility entropy).
+In particular, we see how to visualize trajectories, flows and tessellations, how to clean raw mobility data by using standard techniques proposed in the mobility data mining literature, and how to analyze mobility data by using the main measures characterizing human mobility patterns (e.g., radius of gyration, daily motifs, mobility entropy).
 
 ## Outline of hands-on course
 
