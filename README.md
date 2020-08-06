@@ -8,8 +8,8 @@ At the end of the workshop, the participants will acquire practical skills relat
 - event --> https://appliedmldays.org/workshops/human-mobility-analysis-and-simulation-with-python
 - material --> https://github.com/scikit-mobility/tutorials
 
-## Course: Mobility Data Analysis 2020 (Master in Big Data Analytics & Social Mining)
+## Course: Mobility Data Analysis 2020
 
-In these hands-on lessons, we present an overview on the fundamental principles underlying the analysis of mobility data, using scikit-mobility.
-In particular, we see how to visualize trajectories, flows and tessellations, how to clean raw mobility data by using standard techniques proposed in the mobility data mining literature, and how to analyze mobility data by using the main measures characterizing human mobility patterns (e.g., radius of gyration, daily motifs, mobility entropy).
+These hands-on lessons are part of the course Mobility Data Analysis (MDA) of the [Master in Big Data Analytics & Social Mining](https://www.masterbigdata.it/). 
+We present an overview on the fundamental principles underlying the analysis of mobility data, using scikit-mobility. In particular, we see how to visualize trajectories, flows and tessellations, how to clean raw mobility data by using standard techniques proposed in the mobility data mining literature, and how to analyze mobility data by using the main measures characterizing human mobility patterns (e.g., radius of gyration, daily motifs, mobility entropy).
 
